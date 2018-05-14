@@ -10,7 +10,7 @@ Think massdrop (massdrop.com) meets memebox (before it died) RIP.
 It would look something like this:
 
 
-Drop down menu            Cherry logo and name                 Account ( )
+Drop down menu            Cherry logo and name                 Account ( )
 --------------------------------------------------------------------------
 |               |                |                   |                   |
 |               |                |                   |                   |
